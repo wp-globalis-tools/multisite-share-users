@@ -26,3 +26,8 @@ wp plugin activate wpg-multisite-share-users
 ## Configuration
 
 Define MSU_MAX_SITES in your config file :
+
+```php
+// Add msu max sites
+define('MSU_MAX_SITES', <NUMBER>);
+```
