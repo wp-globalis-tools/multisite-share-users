@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name:         Mulsisite Share Users
- * Plugin URI:          https://github.com/pierre-dargham/multisite-share-users
+ * Plugin Name:         WPG Multisite Share Users
+ * Plugin URI:          https://github.com/wp-globalis-tools/wpg-multisite-share-users
  * Description:         When a new user is added in one site, add it to all the network sites
  * Author:              Pierre DARGHAM, GLOBALIS media systems
- * Author URI:          https://github.com/pierre-dargham/
+ * Author URI:          https://github.com/wp-globalis-tools/
  *
  * Version:             1.0
  * Requires at least:   3.5.0
