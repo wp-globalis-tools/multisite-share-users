@@ -14,6 +14,7 @@ You can install this plugin via the command-line or the WordPress admin panel.
 
 ```sh
 wp plugin activate wpg-multisite-share-users
+```
 
 ## via WordPress Admin Panel
 
