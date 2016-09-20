@@ -1,4 +1,4 @@
-# WordPress Multisite Share Users
+# WordPress Multisite Common Users
 
 When a new user is added in one site, add it to all the network sites
 
