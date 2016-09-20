@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Plugin Name:         WPG Multisite Share Users
- * Plugin URI:          https://github.com/wp-globalis-tools/wpg-multisite-share-users
+ * Plugin Name:         WPG Multisite Common Users
+ * Plugin URI:          https://github.com/wp-globalis-tools/wpg-multisite-common-users
  * Description:         When a new user is added in one site, add it to all the network sites
  * Author:              Pierre DARGHAM, GLOBALIS media systems
  * Author URI:          https://github.com/wp-globalis-tools/
@@ -12,7 +12,7 @@
  * Tested up to:        4.2
  */
 
-namespace WPG\MultisiteShareUsers;
+namespace WPG\MultisiteCommonUsers;
 
 if(!defined('MSU_MAX_SITES')){
 	define('MSU_MAX_SITES', 10000);
