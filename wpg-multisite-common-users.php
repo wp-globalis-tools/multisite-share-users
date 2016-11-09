@@ -12,7 +12,7 @@
  * Tested up to:        4.2
  */
 
-namespace WPG\MultisiteCommonUsers;
+namespace Globalis\MultisiteCommonUsers;
 
 if(!defined('MSU_MAX_SITES')){
 	define('MSU_MAX_SITES', 10000);
